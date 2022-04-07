@@ -1,0 +1,9 @@
+{
+  "watch": ["src"],
+  "ignore": ["**/*.test.js"],
+  "ext": "js",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "exec": "node --experimental-modules --es-module-specifier-resolution=node ./index.js"
+}

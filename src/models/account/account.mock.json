@@ -1,0 +1,42 @@
+[
+  {
+    "user": {
+      "id": "123456789",
+      "email": "student@technischools.com",
+      "verified_email": true,
+      "name": "Ala",
+      "give_name": "Ala",
+      "family_name": "Ala Kot",
+      "picture": "https://some-pictures.com/picture.png",
+      "locale": "pl"
+    },
+    "credentials": {
+      "access_token": "ya29.A0ARrdaM9vLqhfA7MCW6_-mPCUSAD4BPkamc51sRuW_7FAp117QW8rUcmJTGZJECtuEDTPnR__Ws76aSOMvzxeOMhGP09fR8XQL85g5PmN6ECbb6Zie3RD0V05XYJCZtmebbRNQXXfY7ZYs1uLtmkvA-lSksNKFw",
+      "expiry_date": "1649280887703",
+      "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImYxMzM4Y2EyNjgzNTg2M2Y2NzE0MDhmNDE3MzhhN2I0OWU3NDBmYzAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk0NDYwNjc1MDUtMWQwNmtmcnY0aDAxOGlkbnBjZHMxbnVpZnU1anM2dXAuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIxMDk0NDYwNjc1MDUtMWQwNmtmcnY0aDAxOGlkbnBjZHMxbnVpZnU1anM2dXAuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDQ1OTEzNDQyNzM0MzEwNDQwMjgiLCJlbWFpbCI6ImF0LmFkcmlhbm8uYXRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJKd0pLMHd3NS1NZFl6WkxVUjBvSDNnIiwiaWF0IjoxNjQ5Mjc3Mjg5LCJleHAiOjE2NDkyODA4ODl9.NuEvF8UhB4EC0NuEMIkvxk6R8mU09UOewcKZ7V6VG6QKohJyx3Zu6P6E8S3a62gy3XP9iTCK0TJQldSl3HrI7D4M3c4bOoyN76KP18wNhUgn4zh9zCfzMOFe6w740zXFsmtQ3NV35UBexJuNRYqSmiUWTa2jojfXNnF_IchApJMb79fLtFYBupuQ3c1m-QVnOeo9fbXzZAkBlGGUIgnikSZfzj-wgZIoTCbIt6yhfOF-wey5Ux3zd1KQi1EHUcjRv7ieCydBe7iSvO0J1fB8cqZRxIditbo0PL2HQGVUXiYpyfmHfZRKwlJvNfOYsR_0Ftu0jZaNNu9uc29QkXVuEw",
+      "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/userinfo.email",
+      "token_type": "Bearer",
+      "refresh_token": "1//0ceYU584M6VY1CgX0MBZAGAwSNwF-L9IrGLVB8YdPMus5ckGD0iSFvKrRdUNoOPH29SWG9YrSZfWqh9c8JIrmgnRv2SIA6iI8Kq4"
+    }
+  },
+  {
+    "user": {
+      "id": "222222222",
+      "email": "student@technischools.com",
+      "verified_email": true,
+      "name": "Jan",
+      "give_name": "Jan",
+      "family_name": "Jan Kowalski",
+      "picture": "https://some-pictures.com/picture.png",
+      "locale": "pl"
+    },
+    "credentials": {
+      "access_token": "ya27.A0ARrdaM9vLqhfA7MCW6_-mPCUSOD4BPkamc51sRuW_9FAp117QW8rUcmJTGZJECtuEDTPnR__Ws76aSOMvzxeOMhGP09fR8XQL85g5PmN6ECbb6Zie3RD0V05XYJCZtmebbRNQXXfY7ZYs1uLtmkvA-lSksNKFw",
+      "expiry_date": "1649280887703",
+      "id_token": "eyJhbGciOiJSUzI1NKIsImtpZCI6ImYxMzM4Y2EyNjgzNTg2M2Y2NzE0MDhmNDE3MzhhN2I0OWU3NDBmYzAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk0NDYwNjc1MDUtMWQwNmtmcnY0aDAxOGlkbnBjZHMxbnVpZnU1anM2dXAuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIxMDk0NDYwNjc1MDUtMWQwNmtmcnY0aDAxOGlkbnBjZHMxbnVpZnU1anM2dXAuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDQ1OTEzNDQyNzM0MzEwNDQwMjgiLCJlbWFpbCI6ImF0LmFkcmlhbm8uYXRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJKd0pLMHd3NS1NZFl6WkxVUjBvSDNnIiwiaWF0IjoxNjQ5Mjc3Mjg5LCJleHAiOjE2NDkyODA4ODl9.NuEvF8UhB4EC0NuEMIkvxk6R8mU09UOewcKZ7V6VG6QKohJyx3Zu6P6E8S3a62gy3XP9iTCK0TJQldSl3HrI7D4M3c4bOoyN76KP18wNhUgn4zh9zCfzMOFe6w740zXFsmtQ3NV35UBexJuNRYqSmiUWTa2jojfXNnF_IchApJMb79fLtFYBupuQ3c1m-QVnOeo9fbXzZAkBlGGUIgnikSZfzj-wgZIoTCbIt6yhfOF-wey5Ux3zd1KQi1EHUcjRv7ieCydBe7iSvO0J1fB8cqZRxIditbo0PL2HQGVUXiYpyfmHfZRKwlJvNfOYsR_0Ftu0jZaNNu9uc29QkXVuEw",
+      "scope": "openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/calendar https://www.googleapis.com/auth/userinfo.email",
+      "token_type": "Bearer",
+      "refresh_token": "1//0ceYU504M6VY1CgX0MAZAGAwSNwF-L1IrGLVB8YdPMus5ckGD0iSFvKrRdUNoOPH29SWG9YrSZfWqh9c8JIrmgnRv2SIA6iI8Kq4"
+    }
+  }
+]
